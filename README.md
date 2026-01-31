@@ -73,7 +73,7 @@ Hi 👋! My name is Mohamed Yaseen and I'm a Full Stack Software Engineer, from 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="yazzey.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://yaseensamad.github.io/yaseen-mohamed-portfolio/"/>
   </a>
 </div>
 
